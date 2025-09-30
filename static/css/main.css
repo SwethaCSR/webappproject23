@@ -1,0 +1,9 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,'Noto Sans',sans-serif;line-height:1.6;background:#0b1220;color:#e6eaf2}
+a{color:#8ec5ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:960px;margin:0 auto;padding:16px}
+.site-header{background:#0e1a33;border-bottom:1px solid #1f2a48}
+.brand{margin:0;font-size:20px}.brand a{color:#fff}
+.nav a{margin-left:16px}
+.site-footer{border-top:1px solid #1f2a48;padding:16px;text-align:center;color:#b8c1d9}
+h2{margin-top:0}
+code{background:#101a2e;padding:2px 6px;border-radius:4px;color:#cfe3ff}
